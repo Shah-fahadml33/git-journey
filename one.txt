@@ -3,4 +3,5 @@ one
 this changes will be fechted directly to local computer
 helooooooooo
 
-new feature added.
+new feature added
+added dark mode feature to one .txt
